@@ -1,7 +1,5 @@
-# usless-pkg
-empty
- mpty
- m ty
- m t 
+# useless-package
 
-waw
+This is a advanced useless package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
