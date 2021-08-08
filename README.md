@@ -1,5 +1,3 @@
 # useless-package
 
-This is a advanced useless package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+this package is for fun only i just add a features of this package just tried now
